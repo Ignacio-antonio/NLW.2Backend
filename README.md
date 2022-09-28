@@ -1,11 +1,8 @@
-# Funcionalidades
+# Backend
 
-## Conexões
+## Back-end de uma aplicação para ser usado em educação.
 
-- Rota para listar o total de conexões realizadas;
-- Rota para criar uma nova conexão;
+[LINK para o repositório auxiliar](https://github.com/Ignacio-antonio/NLW.2FrontEnd)
 
-## Aulas
-- Rota para criar uma aula;
-- Rota para listar aulas;
-    -Filtrar por matéria dia da semana e horário;
+# Contato:
+yignaciosd@gmail.com
